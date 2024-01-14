@@ -1,0 +1,12 @@
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "addressLineOne": "Test Street 12",
+  "city": "Mexico",
+  "postalCode": "94188",
+  "email": "test@mail.com",
+  "country": "USA",
+  "state": "Mexico",
+  "company": "TDC",
+  "phone": "1234567890"
+}
