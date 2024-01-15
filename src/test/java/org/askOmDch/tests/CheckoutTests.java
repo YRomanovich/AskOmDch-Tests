@@ -11,7 +11,6 @@ import org.askOmDch.pages.CartPage;
 import org.askOmDch.utils.ConfigLoader;
 import org.askOmDch.utils.JacksonUtils;
 import org.testng.Assert;
-import org.testng.annotations.Test;
 
 import java.io.IOException;
 

@@ -1,6 +1,5 @@
 package org.askOmDch.base;
 
-import io.qameta.allure.Step;
 import org.askOmDch.constants.Timeouts;
 import org.askOmDch.utils.ConfigLoader;
 import org.openqa.selenium.By;

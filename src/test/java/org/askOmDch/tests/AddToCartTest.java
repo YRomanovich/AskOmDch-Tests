@@ -9,9 +9,7 @@ import org.askOmDch.pages.CartPage;
 import org.askOmDch.pages.HomePage;
 import org.askOmDch.pages.ProductPage;
 import org.askOmDch.pages.StorePage;
-import org.askOmDch.utils.JacksonUtils;
 import org.testng.Assert;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
