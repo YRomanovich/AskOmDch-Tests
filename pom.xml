@@ -68,7 +68,7 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <suiteFile>testng.xml</suiteFile>
-        <aspectj.version>1.9.5</aspectj.version>
+        <aspectj.version>1.9.19</aspectj.version>
     </properties>
 
     <build>
@@ -96,7 +96,7 @@
                     <dependency>
                         <groupId>org.aspectj</groupId>
                         <artifactId>aspectjweaver</artifactId>
-                        <version>1.9.6</version>
+                        <version>${aspectj.version}</version>
                     </dependency>
                 </dependencies>
             </plugin>
